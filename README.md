@@ -1,6 +1,3 @@
-# This is a Open Source Project.
-## I make this So users can make Contributions in it To Improve It and also For Hacktober Fest
-
 
 #  How To Use ???
 
@@ -12,6 +9,3 @@
 ### Add Node Modules Before Use.
 
 
-# contributions
-
-### >>> Mayur Shrivastava
